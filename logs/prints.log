@@ -1,0 +1,2 @@
+01:53:01.739 [main] FATAL selenium.DummyTest - This is just for logFatal test for 2
+01:53:01.751 [main] DEBUG selenium.DummyTest - This is just for logDebug test for 2

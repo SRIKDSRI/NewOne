@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="120" started-at="2020-08-15T22:53:20 IST" finished-at="2020-08-15T22:53:20 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="120" started-at="2020-08-15T22:53:20 IST" finished-at="2020-08-15T22:53:20 IST">
+      <class name="selenium.DummyClassTest">
+        <test-method status="PASS" signature="dummymethod1()[pri:0, instance:selenium.DummyClassTest@5ce81285]" name="dummymethod1" duration-ms="1" started-at="2020-08-15T22:53:20 IST" finished-at="2020-08-15T22:53:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- dummymethod1 -->
+      </class> <!-- selenium.DummyClassTest -->
+      <class name="selenium.DummyTest">
+        <test-method status="PASS" signature="method1()[pri:0, instance:selenium.DummyTest@52a86356]" name="method1" duration-ms="15" started-at="2020-08-15T22:53:20 IST" finished-at="2020-08-15T22:53:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- method1 -->
+      </class> <!-- selenium.DummyTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,6 @@
+20:38:38.260 [main] INFO  selenium.DummyTest - This is just for logInfo test for 2
+20:38:38.279 [main] ERROR selenium.DummyTest - This is just for logError test for 2
+20:38:38.280 [main] FATAL selenium.DummyTest - This is just for logFatal test for 2
+20:38:38.280 [main] DEBUG selenium.DummyTest - This is just for logDebug test for 2
+01:53:01.730 [main] INFO  selenium.DummyTest - This is just for logInfo test for 2
+01:53:01.738 [main] ERROR selenium.DummyTest - This is just for logError test for 2

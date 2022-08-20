@@ -1,0 +1,6 @@
+23:58:34.844 [main] ERROR selenium.DummyClassTest - This is just for logError test for 1
+23:58:34.849 [main] FATAL selenium.DummyClassTest - This is just for logFatal test for 1
+23:58:34.869 [main] INFO  selenium.DummyTest - This is just for logInfo test for 2
+23:58:34.870 [main] ERROR selenium.DummyTest - This is just for logError test for 2
+23:58:34.870 [main] FATAL selenium.DummyTest - This is just for logFatal test for 2
+23:58:34.870 [main] DEBUG selenium.DummyTest - This is just for logDebug test for 2
